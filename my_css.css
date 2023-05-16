@@ -1,0 +1,44 @@
+.circle-button-gray {
+   content: "";
+   display: inline-block;
+   width: 20px;
+   height: 20px;
+   border-radius: 50%;
+   margin-right: 5px;
+   background-color: gray;
+}
+.circle-button-black {
+   content: "";
+   display: inline-block;
+   width: 20px;
+   height: 20px;
+   border-radius: 50%;
+   margin-right: 5px;
+   background-color: black;
+}
+.circle-button-green {
+   content: "";
+   display: inline-block;
+   width: 20px;
+   height: 20px;
+   border-radius: 50%;
+   margin-right: 5px;
+   background-color: green;
+}
+.circle-button-yellow {
+   content: "";
+   display: inline-block;
+   width: 20px;
+   height: 20px;
+   border-radius: 50%;
+   margin-right: 5px;
+   background-color: yellow;
+}
+.circle-button-red {
+   display: inline-block;
+   width: 20px;
+   height: 20px;
+   border-radius: 50%;
+   margin-right: 5px;
+   background-color: red;
+}
